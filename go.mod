@@ -1,6 +1,6 @@
-module github.com/mdlayher/taskstats
+module github.com/narslan/taskstats
 
-go 1.12
+go 1.16
 
 require (
 	github.com/google/go-cmp v0.2.0
